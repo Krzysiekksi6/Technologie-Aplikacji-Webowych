@@ -1,0 +1,15 @@
+
+body {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.content {
+    padding: 2rem;
+    background-color: royalblue;
+}
+
+.box {
+    padding: 2rem;
+    background-color: #fff;
+}

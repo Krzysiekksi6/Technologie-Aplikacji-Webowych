@@ -1,0 +1,5 @@
+W HTML oraz CSS powiązania są nastepujące:
+
+Poprzez dodanie w HTML znacznika class='one', w CSS możemy się odwołać do tego znacznika za pomocą kropki '.' => .one{}
+Analogicznie dla id w HTML w CSS to jest znak hasz #
+id='two' w CSS: #two{}

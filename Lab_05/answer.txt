@@ -1,1 +1,0 @@
-Aplikacja wydrukowała komunikat "new connection" w konsoli za pomocą metody console.log() w callbacku funkcji obsługi zdarzeń 'connection'.
